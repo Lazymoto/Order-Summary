@@ -7,7 +7,7 @@
 
 body {
   min-height: 100vh;
-  background-image: url("/images/pattern-background-desktop.svg");
+  background-image: url("images/pattern-background-desktop.svg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: auto;
